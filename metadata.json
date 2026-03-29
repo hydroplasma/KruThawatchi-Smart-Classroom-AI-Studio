@@ -1,0 +1,9 @@
+{
+  "name": "KruThawatchi Smart Classroom",
+  "description": "A comprehensive mobile-friendly classroom management system with student tracking, attendance, grading, and AI insights for teachers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
